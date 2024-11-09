@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    margin: auto;
+    max-width: 480px;
+    padding: 0 20px;
+    border: 1px solid black;
+}
+
+header {
+    width: 480px;
+    height: 50px;
+    border: 1px solid black;
+}
+
+.logo {
+    width: auto;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.chat {
+    width: auto;
+    height: 30px;
+    margin-left: 350px;
+}
