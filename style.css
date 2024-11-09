@@ -51,8 +51,8 @@ main {
 }
 
 .maindiv {
-    width: 180px;
-    height: 400px;
+    width: 150px;
+    height: 300px;
     border: 1px solid black;
     border-radius: 10px;
     background-color: white;
