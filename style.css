@@ -8,8 +8,6 @@
     margin: auto;
     max-width: 480px;
     height: auto;
-    /* padding: 0 20px; */
-    border: 1px solid black;
 }
 
 header {
@@ -49,15 +47,13 @@ main {
     flex-wrap: wrap;
     max-width: 480px;
     height: auto;
-    border: 1px solid black;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-top: 20px;
     background-color: lightblue;
 }
 
 .maindiv {
-    width: 210px;
-    height: 420px;
+    width: 140px;
+    height: 270px;
     border: 1px solid black;
     border-radius: 10px;
     background-color: white;
