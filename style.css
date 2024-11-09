@@ -41,9 +41,6 @@ header {
 }
 
 main {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
     max-width: 480px;
     height: auto;
     padding-top: 20px;
@@ -53,9 +50,21 @@ main {
 .maindiv {
     width: 120px;
     height: 300px;
-    border: 1px solid black;
     border-radius: 10px;
     background-color: white;
     margin: 10px;
 }
 
+.h33 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 480px;
+    height: auto;
+    padding-top: 20px;
+    background-color: lightblue;
+}
+
+h3 {
+    margin-left: 20px;
+}
